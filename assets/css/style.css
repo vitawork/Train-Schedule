@@ -1,0 +1,11 @@
+.card {
+  padding: 0;
+}
+
+#card1 {
+  min-width: 500px;
+}
+
+.mainrow{
+    padding: 20px 10px 5px 10px;
+}

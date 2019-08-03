@@ -6,6 +6,14 @@
   min-width: 500px;
 }
 
-.mainrow{
-    padding: 20px 10px 5px 10px;
+.mainrow {
+  padding: 20px 10px 10px 10px;
+}
+
+#pval {
+  color: rgb(247, 103, 103);
+}
+
+body{
+    background-color: rgba(138, 213, 243, 0.466);
 }
